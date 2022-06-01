@@ -1,6 +1,6 @@
 Automation and data analysis in python using pyautogui and pandas with the following steps:
 
-1 - Used to open a new tab 
+1 - CTRL + T activated to open a new tab 
 
 2 - Type the drive adress where is the data 
 
